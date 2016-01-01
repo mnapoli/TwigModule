@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "path-mappings": {
+        "/twig": "res"
+    },
+    "bindings": {
+        "f7360c8d-b816-48f0-9cdc-55f65b5f43e9": {
+            "_class": "Puli\\Discovery\\Binding\\ResourceBinding",
+            "query": "/twig/config/config.php",
+            "type": "php-di/configuration"
+        }
+    }
+}
